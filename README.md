@@ -14,13 +14,15 @@ To keep the website filters working correctly, please follow this naming convent
 ```text
 /
 ├── schemes/
-│   ├── btech-cse-2022-scheme.pdf
-│   └── btech-aiml-2023-scheme.pdf
+│   ├── Scheme-<Branch>-<Semisters Covered>-Sem.pdf
+│   ├── Scheme-AIML-I-VIII-Sem.pdf
+│   └── Scheme-CSDS-I-VIII-Sem.pdf
 ├── syllabuses/
-│   ├── sem1-common-syllabus.pdf
-│   └── sem7-aiml-electives.pdf
+│    ├── Syllabus-<Branch>-<Semisters Covered>-Sem.pdf   
+│   ├── Syllabus-AIML-I-VIII-Sem.pdf
+│   └── Syllabus-CSDS-I-VIII-Sem.pdf
 └── ordinances/
-    └── rgpv-btech-ordinance-70.pdf
+    └── Taken and used directly from RGPV official Website and CDN for efficiency.
 
 ```
 
